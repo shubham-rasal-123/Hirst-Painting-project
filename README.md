@@ -6,7 +6,7 @@ This is a recreation of [Damien Hirst's] Spot Painting using Python with the hel
 
 ## 📝 Prerequisites
 + Familiar with the [Turtle module](https://docs.python.org/3/library/turtle.html) ((Don't know? Internet is the savior. Trust me it's easy).
-+ Installation of the [olorgram Package](https://pypi.org/project/colorgram.py) (We need to make our painting as colorful as Damien Hirst's).
++ Installation of the [colorgram Package](https://pypi.org/project/colorgram.py) (We need to make our painting as colorful as Damien Hirst's).
 + Basic comprehension of the [RGB color system](https://en.wikipedia.org/wiki/RGB_color_model) .
 
 ## ⚙️ Languages or Frameworks Used
